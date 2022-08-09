@@ -1,3 +1,5 @@
+**NOTE: This repository was created as a template for Compiler Design course projects given to my class. Now it's archived and no guarantee it will run on newer versions of clang.**
+
 ## Description
 This is a Clang-11 plugin which adds a diagnostic warning when variable or function names start with underscore `_`.
 
